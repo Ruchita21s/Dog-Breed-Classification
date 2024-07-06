@@ -15,7 +15,9 @@ We'll use a deep learning model called a Convolutional Neural Network (CNN) for 
 **We'll explore three CNN architectures:**
 
 AlexNet
+
 VGG
+
 ResNet
 
 We'll determine which model works best for our application. Certain breeds look very similar, such as Great Pyrenees and Kuvasz, German Shepherd and Malinois, and Beagle and Walker Hound 🐕🐩. The more images the algorithm learns from, the better it can distinguish between these similar breeds.
@@ -39,6 +41,9 @@ python check_images.py --dir pet_images/ --arch alexnet --dogfile dognames.txt >
 python check_images.py --dir pet_images/ --arch vgg --dogfile dognames.txt > vgg_pet-images.txt
 
 The > symbol pipes the console output into a file, storing the results automatically 📄.
+![image](https://github.com/Ruchita21s/Dog-Breed-Classification/assets/140568662/4bb4bcc3-0107-4917-95e3-fcd6b8a70d71)
+
+
 
 **Results Table:**
 
