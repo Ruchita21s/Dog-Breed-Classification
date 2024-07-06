@@ -2,10 +2,12 @@
 
 
 In this project, we use an image classifier to identify dog breeds for a citywide dog show.
+
+
 **
 Description:**
 
-As a volunteer for the dog show organizing committee, you're tasked with managing contestant registrations. Participants must submit a photo of their dog along with some biographical details. The registration system tags these images based on the information provided. However, some people might try to register pets that aren't actually dogs 🐱🐰.
+You manage contestant registrations as a volunteer for the dog show organizing committee. Participants must submit a photo of their dog along with some biographical details. The registration system tags these images based on the information provided. However, some people might try to register pets that aren't dogs 🐱🐰.
 
 **Important Notes:**
 
