@@ -41,6 +41,8 @@ python check_images.py --dir pet_images/ --arch alexnet --dogfile dognames.txt >
 python check_images.py --dir pet_images/ --arch vgg --dogfile dognames.txt > vgg_pet-images.txt
 
 The > symbol pipes the console output into a file, storing the results automatically 📄.
+
+
 ![image](https://github.com/Ruchita21s/Dog-Breed-Classification/assets/140568662/4bb4bcc3-0107-4917-95e3-fcd6b8a70d71)
 
 
